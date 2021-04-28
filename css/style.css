@@ -1075,3 +1075,14 @@ Media queries
 		margin-bottom: 30px;
 	}
 }
+@media screen and (max-width:320px){
+  .logo-img{
+	  width: 100px;
+  }
+}
+@media screen and (max-width:375px){
+
+}
+@media screen and (max-width:425px){
+
+}
